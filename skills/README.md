@@ -37,5 +37,4 @@ skills/
 
 ## 现有 Skills
 
-- `podcast-studio` — AI 播客创作流水线（基础版：亲子播客 / 音乐播客 / MiniMax T2A 音频合成）。
-- `podcast-studio-wb` — AI 播客创作流水线（增强版：角色音色三通道 现成→描述生成→声音复刻、整集全角色配音 tts_cast + 权威音色表、BGM/SFX 自动混音、安审红线与判例库）。
+- `podcast-studio` — AI 播客创作流水线（亲子播客 / 音乐播客 / MiniMax T2A 音频合成）。
